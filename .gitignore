@@ -1,0 +1,21 @@
+# Android / Gradle
+.gradle/
+build/
+local.properties
+*.apk
+*.aab
+.cxx/
+captures/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+.DS_Store
+
+# Misc
+*.log
