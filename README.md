@@ -19,6 +19,15 @@
 
 ---
 
+## 📸 Demo
+
+<!-- GIF hazır olunca aşağıdaki satırın yorumunu kaldır: -->
+<!-- ![WatchBridge demo](docs/demo.gif) -->
+
+iPhone'dan gelen bir WhatsApp / SMS bildiriminin birkaç saniye içinde Galaxy Watch 7 ekranında belirişini gösteren kısa bir demo yakında buraya eklenecek. Katkı sağlamak isteyen varsa kendi kurulumundan bir GIF/ekran görüntüsü paylaşabilir (bkz. [CONTRIBUTING](CONTRIBUTING.md)).
+
+---
+
 ## Neden?
 
 Galaxy Watch 7, Wear OS 5 ile birlikte **iPhone desteğini resmi olarak kaldırdı.** iPhone kullanıp Galaxy Watch takanlar, bildirimlerini saatte göremediği için ya pahalı üçüncü parti uygulamalara (Merge vb.) para veriyor ya da saati yarım kullanıyor.
